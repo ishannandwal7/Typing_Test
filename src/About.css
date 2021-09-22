@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tr{
+    
+    
+    display: block;
+    
+    position: absolute;
+    top:100%;
+    width: 100%;
+    
+}
+.ab{
+    background-color: white;
+    color: black;
+    font-size: 24px;
+    padding: 50px 30px;
+    font-weight: lighter;
+}
+.sec{
+    background-color: black;
+    color: white;
+    height: 100px;
+    font-size: 35px;
+    text-align: center;
+    padding: 25px;
+    text-transform: capitalize;
+    letter-spacing: 0.12rem;
+    justify-content: center;
+}
+
+.copyright{
+    position: absolute;
+    bottom: 0;
+    justify-content: center;
+    width: 100%;
+    padding-left: 5%;
+    background-color: #121212;
+    color: white;
+    text-transform: capitalize;
+    height: 30px;
+    padding-top: 8px;
+    font-size: 15px;
+}
+
