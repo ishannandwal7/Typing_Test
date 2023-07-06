@@ -1,6 +1,6 @@
 import './About.css';
 import Timeline from './Timeline';
-import Footer from './Footer';
+import Footer from './Footer' ;
 function About(){
     return(
         
